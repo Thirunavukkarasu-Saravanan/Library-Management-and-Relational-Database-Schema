@@ -1,6 +1,3 @@
-# Library Management - Relational Database Schema
- Web application for keeping track of members, the books, the catalog, and the borrowing activity of an library.
- 
 Folder Contents
 
 1. App, Data File - contains Java Web application, Triggers to be set right after table creation before any data/operation is performed.
@@ -11,4 +8,3 @@ EER Schema diagram.pdf consists of the EER diagram.
 EER Schema diagram report.pdf consists of the report for the EER schema diagram.
 Relational Database Schema.pdf consists of the relational database schema from the EER.
 Realtional Database Schema Report.pdf consists of the report for the Realational database schema.
-
